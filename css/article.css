@@ -13,7 +13,7 @@
 
 @font-face {
 	font-family: 'Cats';
-	src: url(../fonts/BMneco.ttf) format('truetype');
+	src: url(../fonts/BMneco.TTF) format('truetype');
 }
 
 .title {
